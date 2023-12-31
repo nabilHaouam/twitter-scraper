@@ -1,0 +1,7 @@
+{
+    "searchQuery": "mentor",
+    "headless": false,
+    "scrollInterval": 10000,
+    "maxScrolls": 2,
+    "timeBetweenSearchQueries": 10000
+  }
